@@ -1,4 +1,24 @@
-### Hi there 👋
+# Olá pessoal! 
+
+Meu nome é João Lucas Garcia Silva , estou em transição de carreira, estou 
+
+
+Para me encontrar: 
+redes sociais profissionais 
+youtube, linkedin, instagram
+
+Hard Skills: 
+html5, css3, javascript, typescript, react, nodejs
+
+
+
+
+
+frase de efeito que goste - autor 
+
+gráfico das tecnologias 
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolgs-dev&theme=tokyonight&custom_title=Top%20%Linguagens)
 
 <!--
 **joaolgs-dev/joaolgs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
