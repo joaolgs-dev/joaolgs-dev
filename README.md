@@ -1,6 +1,6 @@
 # Olá pessoal! 
-
-Meu nome é João Lucas Garcia Silva , estou em transição de carreira, estou 
+READ ME em construção
+<!--Meu nome é João Lucas Garcia Silva , estou em transição de carreira, estou 
 
 
 Para me encontrar: 
@@ -17,7 +17,7 @@ html5, css3, javascript, typescript, react, nodejs
 frase de efeito que goste - autor 
 
 gráfico das tecnologias 
-
+-->
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolgs-dev&theme=tokyonight&custom_title=Top%20%Linguagens)
 
 <!--
